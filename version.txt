@@ -1,11 +1,11 @@
 {
 "fw_url":"https://raw.githubusercontent.com/UsableLoki8221/AA/refs/heads/main/encrypted_firmware.bin",
-"fw_version":"2.2.2",
-"fw_size":"956240",
-"fw_hash":"6205dda452dd44843a23f739ef173c48528b1ac2f5fd16ace464ce49b817935a"
+"fw_version":"0.2.2",
+"fw_size":"1332944",
+"fw_hash":"2cfc3f2f238ccf61c8fdd51897197a6ae6bb17811335e87f57821524e0878e24"
 ,
 "fs_url":"https://raw.githubusercontent.com/UsableLoki8221/AA/refs/heads/main/encrypted_filesystem.bin",
-"fs_version":"2.2.2",
+"fs_version":"0.2.2",
 "fs_size":"1572896",
-"fs_hash":"0ca84a7cd95c737e702dabd25f504d353ddf1c2af87982171820595745c4afa2"
+"fs_hash":"a3986055fe62cd8c22ed5b46f5d73b9479ac7329ecd49e4de1ef6e95073f41e2"
 }
